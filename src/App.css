@@ -24,6 +24,12 @@
   color: white;
 }
 
+.team-card {
+  border-bottom: 1px solid #ccc; /* Light grey border */
+  padding-bottom: 20px; /* Add some space below the content */
+  margin-bottom: 20px; /* Add some space to the bottom of the card */
+}
+
 .App-link {
   color: #61dafb;
 }
